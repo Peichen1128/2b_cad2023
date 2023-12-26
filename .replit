@@ -13,3 +13,6 @@ deploymentTarget = "cloudrun"
 [auth]
 pageEnabled = false
 buttonEnabled = false
+
+[unitTest]
+language = "python3"
